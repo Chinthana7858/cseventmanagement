@@ -1,4 +1,5 @@
 import React from "react";
+import Image from 'next/image';
 
 interface SpeakerModalProps {
   isOpen: boolean;
@@ -42,7 +43,7 @@ export default function SpeakerModal({
 
         <div className="border border-gray-200 rounded-lg p-4">
           <div className="flex flex-col md:flex-row gap-6">
-            <img
+            <Image 
               src={speaker.image}
               alt={speaker.name}
               className="w-full md:w-48 md:h-48 h-auto object-cover rounded-md"

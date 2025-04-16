@@ -43,7 +43,7 @@ export default function EventOverview() {
             >
               <p>
                 Join us on April 9th in Cairo, Egypt, for Finastras Universal
-                Banking Forum, "Reimagine Banking: Adapt. Evolve. Thrive." This
+                Banking Forum, &quot;Reimagine Banking: Adapt. Evolve. Thrive.&quot; This
                 exclusive event is designed to help you navigate and excel in
                 the rapidly evolving banking landscape.
               </p>

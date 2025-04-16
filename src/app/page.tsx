@@ -6,7 +6,6 @@ import Footer from "@/components/Footer";
 import NavBar from "@/components/NavBar";
 import OurSpeakers from "@/components/OurSpeakers";
 import RegisterSection from "@/components/RegisterSection";
-import Image from "next/image";
 
 export default function Home() {
   return (

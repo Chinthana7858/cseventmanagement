@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-
 interface SpeakerCardProps {
   image: string;
   name: string;
