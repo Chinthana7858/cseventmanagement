@@ -7,7 +7,7 @@ An elegant, mobile-responsive event landing page built using **Next.js 15**, **T
 
 ## 🚀 Features
 
-- ⚡ Blazing-fast performance with Next.js 15
+- ⚡ Blazing-fast performance with Next.js
 - 📱 Fully responsive design (mobile-first)
 - 🖼️ Optimized images using `next/image`
 - 🎤 Dynamic speaker modal with bio
