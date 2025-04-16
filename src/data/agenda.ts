@@ -22,14 +22,14 @@ export const agendaData = [
     title:
       "Decoding the Future - Transformation: The Opportunity & Time is Now",
     speaker:
-      "Mr. Daragh O'Byrne, Senior Director, Marketing, Universal Banking, Finastra",
+      "Mr. Daragh O Byrne, Senior Director, Marketing, Universal Banking, Finastra",
   },
   {
     time: "11:00 AM",
     title:
       "Panel Discussion: Customer Acquisition - Gaining New Customers in a Hyper Competitive World",
     speaker:
-      "Hamid Nirouzad, Managing Director - Africa, Finastra Universal Banking Ahmad Hamdy, Head of Information Technology, International Company for Leasing S.A.E. “Incolease’’. Ms. Riham Ismail Kassem Muhammad, Corporate & Supporting Functions CEX Senior, FABMISR",
+      "Hamid Nirouzad, Managing Director - Africa, Finastra Universal Banking Ahmad Hamdy, Head of Information Technology, International Company for Leasing S.A.E. Incolease. Ms. Riham Ismail Kassem Muhammad, Corporate & Supporting Functions CEX Senior, FABMISR",
   },
   {
     time: "11:30 AM",

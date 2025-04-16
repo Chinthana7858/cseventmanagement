@@ -5,7 +5,6 @@ import {
   FaInstagram,
   FaTwitter,
 } from "react-icons/fa";
-import { ImLinkedin2 } from "react-icons/im";
 import { IoLocationOutline } from "react-icons/io5";
 import { LuPhoneCall } from "react-icons/lu";
 import { MdOutlineEmail } from "react-icons/md";

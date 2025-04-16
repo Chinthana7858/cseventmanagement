@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import { useEffect, useState } from "react";
 
 interface SpeakerCardProps {
   image: string;
@@ -14,11 +13,7 @@ export default function SpeakerCard({
   title,
   org,
 }: SpeakerCardProps) {
-  const [mounted, setMounted] = useState(false);
 
-  useEffect(() => {
-    setMounted(true);
-  }, []);
   return (
     <motion.div
       whileHover={{ y: -15 }}

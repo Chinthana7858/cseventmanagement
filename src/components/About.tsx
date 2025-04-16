@@ -12,7 +12,7 @@ export default function About() {
           potential of people, businesses and communities everywhere, its vision
           is to accelerate the future of Open Finance through technology and
           collaboration, and its pioneering approach is why it is trusted by
-          ~8,100 financial institutions, including 45 of the world's top 50
+          ~8,100 financial institutions, including 45 of the worlds top 50
           banks.
         </p>
 

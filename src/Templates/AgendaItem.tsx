@@ -1,6 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
-import React, { useEffect, useState } from "react";
+import React from "react";
 
 interface AgendaItemProps {
   time: string;
@@ -15,11 +15,7 @@ export default function AgendaItem({
   speaker,
   tag,
 }: AgendaItemProps) {
-  const [mounted, setMounted] = useState(false);
 
-  useEffect(() => {
-    setMounted(true);
-  }, []);
   return (
     <motion.div
       className="md:basis-1/4 w-full text-justify px-5"
