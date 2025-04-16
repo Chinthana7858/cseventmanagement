@@ -20,7 +20,7 @@ An elegant, mobile-responsive event landing page built using **Next.js 15**, **T
 
 ## 📦 Tech Stack
 
-- [Next.js 15](https://nextjs.org/)
+- [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Axios](https://axios-http.com/) for API requests
